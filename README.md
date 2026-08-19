@@ -175,6 +175,12 @@ The notebook contains the major stages of the project, including:
 
 ## 📈 Results
 
+🚀 Live Demo
+
+Try the deployed Streamlit application:
+
+👉 [Heart Stroke Prediction — Live Demo](https://heart-stroke-prediction-mi6cdjy3bsiwnneg8kthw7.streamlit.app/?utm_source=chatgpt.com)
+
 🏆 Selected Model: KNN
 
 The K-Nearest Neighbors (KNN) algorithm was selected as the final model for the application.
